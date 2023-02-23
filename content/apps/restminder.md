@@ -27,3 +27,4 @@ UseHugoToc: true
 ---
 
 *To be implemented...*
+*Another text added.*
