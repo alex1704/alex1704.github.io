@@ -1,0 +1,22 @@
+
+
+<!-- align div elements with id = xxx in one line -->
+
+<style>
+    div#appFooters {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+</style>
+
+</br>
+<div style="display: flex; flex-direction: row; justify-content:last baseline;">
+    <a href="{{ .Get `appLink` }}">
+        <img src="/img/vizytka/appStoreBadge.svg">
+    </a>
+
+    <a href="{{ .Get `policyLink` }}" target="_blank">
+         Privacy policy
+    </a>
+</div>
