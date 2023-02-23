@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alex Kostenko</title>
+    <link>https://alex1704.github.io/</link>
+    <description>Recent content on Alex Kostenko</description>
+    <image>
+      <title>Alex Kostenko</title>
+      <url>https://alex1704.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alex1704.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://alex1704.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vizytka</title>
+      <link>https://alex1704.github.io/apps/vizytka/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://alex1704.github.io/apps/vizytka/</guid>
+      <description>Share contact info with ease!</description>
+    </item>
+    
+    <item>
+      <title>Vizytka</title>
+      <link>https://alex1704.github.io/policy/vizytka/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://alex1704.github.io/policy/vizytka/</guid>
+      <description>The Vizytka app Privacy Policy was updated on February 23, 2023.</description>
+    </item>
+    
+  </channel>
+</rss>
