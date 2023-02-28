@@ -30,8 +30,6 @@ The app is designed to alleviate the hassle of sharing contact information by pr
 
 {{< vizytkaGallery >}}
 
-<!-- {{< appFooter "appLink"="https://apps.apple.com/us/app/vizytka/id1664967393" "policyLink"="/policy/vizytka" >}} -->
-
 \
 [![App store link](/img/appStoreBadge.svg)](https://apps.apple.com/us/app/vizytka/id1664967393)
 [Privacy policy](/policy/vizytka)
