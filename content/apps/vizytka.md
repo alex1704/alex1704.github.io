@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://alex1704.github.io/apps/vizytka/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

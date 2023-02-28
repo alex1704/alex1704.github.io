@@ -12,7 +12,7 @@ draft: false
 hidemeta: true
 comments: false
 description: "Boost your productivity, do not forget to rest!"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://alex1704.github.io/apps/restminder/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
