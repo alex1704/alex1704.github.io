@@ -113,9 +113,9 @@ menu:
     - identifier: apps
       name: Apps
       url: /apps/
-    - identifier: policy
-      name: Policies
-      url: /policy/
+    - identifier: resume
+      name: Resume
+      url: /etc/resume
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
