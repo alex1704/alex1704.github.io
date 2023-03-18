@@ -97,7 +97,7 @@ UseHugoToc: true
 ### Languages
 
 - Ukrainian: Mastery
-- English: B2
+- English: B1
 - Polish: Intermediate
 
 ***
