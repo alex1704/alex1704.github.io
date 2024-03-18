@@ -43,11 +43,8 @@ Heydi's goal is to streamline user’s interaction with various web chats, elimi
 
 \
 **Shortcuts**\
-You can explore app actions by yourself in the Shortcuts app. I'm sharing next shortcuts to speed up process for inexperience Shortcuts users.
-* [Toggle chat message dictation](https://www.icloud.com/shortcuts/ac41df7078d343539b6390970abfbd84)
-* [Cancel chat message dictation](https://www.icloud.com/shortcuts/4f3800e3a000427383504ee33b19fa9f)
-* [Ask question using clipboard](https://www.icloud.com/shortcuts/28d08be495284f0e8f8e3498b4c024eb)
-* [Toggle main window visibility](https://www.icloud.com/shortcuts/aee74a7fd3cb4e559d71e4fe73051e1b)
+Useful shortcuts:
+* [Clipboard Prompt](https://www.icloud.com/shortcuts/72b0aad6fbd042fda5bc5b4c328f3337)
 
 \
 [![App store link](/img/appStoreBadge.svg)](https://apps.apple.com/app/heydi/id6477883229)
