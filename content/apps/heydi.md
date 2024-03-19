@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Relieve AI chat interaction"
+description: "Simplify Web AI Chat Interactions"
 canonicalURL: "https://alex1704.github.io/apps/heydi/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -23,27 +23,22 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
 
-Mac app that allows you to interact with AI web chats effortlessly:
-* Non-intrusive: send and receive chat messages while staying focused on your tasks
-* Generate prompts with your voice and/or clipboard
-* Open the chat window on any screen
+Streamlines interaction with web AI chats - ChatGPT, Claude, Copilot, Gemini and Perplexity:
+* Prompt with your voice, clipboard, or both
+* Chat can process request in background, once it’s ready you will be notified
+* All functionalities are configurable with shortcuts
 
-How many times have you avoided interacting with an AI assistant because it demanded too much of your attention? You had to switch to web chat, wait for a response, and then return to your previous task. And that's assuming you have the patience to wait for your answer to cook. Wouldn't it be easier if you could simply ask the AI chat to do its thing without switching contexts?
+Heydi’s main goal is to reduce context switching. All interactions can be initiated with keyboard shortcut to either open a chat window or send an audio message to a chat. No need to stay on a chat window waiting for response or keep it in focus – you'll be notified once it's ready.
 
-Heydi's goal is to streamline user’s interaction with various web chats, eliminating the need to divert attention from main objectives. Just set up a Quick Action in the Shortcuts app, assign a keyboard shortcut to it, and you're ready to go! The main funtionality of the app is accessible via Quick Actions - you can prompt chat with your voice, use the clipboard, or toggle chat window visibility. When the answer is ready, Heydi can generate and play the chat response audio for you. Plus, as a status bar app, it's just one action away from opening on any screen.
-
-\
-**Heydi features**
-* Voice and/or clipboard prompting
-* Interact with chat without opening it
-* Web chats: ChatGPT, Perplexity, with more to come
-* Quick Actions support - toggle prompt dictation, cancel prompt dictation, paste prompt from clipboard, toggle main window visibility
-* Speech transcription using offline WhisperCPP or OpenAI API
-* Audio generation using system voices or OpenAI API
+**Heydi offers:**
+* Voice, clipboard, or combined prompting
+* Manipulate chat with shortcuts even without opening them
+* Available web chats: ChatGPT, Claude, Copilot, Gemini and Perplexity
+* Speech transcription using offline WhisperCPP or the OpenAI API
+* Ability to generate audio from responses using system voices or the OpenAI API
 
 \
-**Shortcuts**\
-Useful shortcuts:
+**Useful shortcuts:**
 * [Clipboard Prompt](https://www.icloud.com/shortcuts/72b0aad6fbd042fda5bc5b4c328f3337)
 
 \
