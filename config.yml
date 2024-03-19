@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "My name is Alex Kostenko, and I am a software developer. In recent years, I have been focusing on implementing iOS apps using Swift."
+    Content: "My name is Alex Kostenko, I am a software developer with a focus on iOS and macOS applications. Swift is my primary programming language but my career started with Objective-C and C++. I leverage Bash, Python, and Ansible to automate tasks and streamline development processes. I'm a team player, always seeking to broaden my perspective."
 
   socialIcons:
     - name: github
